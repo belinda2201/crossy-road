@@ -1,0 +1,18 @@
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\bin\Debug\net6.0-windows\crossy road.exe
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\bin\Debug\net6.0-windows\crossy road.deps.json
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\bin\Debug\net6.0-windows\crossy road.runtimeconfig.json
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\bin\Debug\net6.0-windows\crossy road.dll
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\bin\Debug\net6.0-windows\crossy road.pdb
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.csproj.AssemblyReference.cache
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy_road.Form1.resources
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy_road.Properties.Resources.resources
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.csproj.GenerateResource.cache
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.AssemblyInfoInputs.cache
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.AssemblyInfo.cs
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.csproj.CoreCompileInputs.cache
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.dll
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\refint\crossy road.dll
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.pdb
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\crossy road.genruntimeconfig.cache
+C:\Users\Belinda\Documents\Belinda\1. Tugas\Alpro\crossy-road\crossy road\obj\Debug\net6.0-windows\ref\crossy road.dll
